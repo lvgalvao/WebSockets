@@ -1,0 +1,1 @@
+print("outra func")
