@@ -33,4 +33,4 @@ jobs:
         run: poetry install
 
       - name: Run tests
-        run: poetry run pytest # Replace with your test command if not using pytest
+        run: poetry run pytest  # This will use your poetry environment for running tests
